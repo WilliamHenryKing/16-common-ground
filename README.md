@@ -48,7 +48,7 @@ Stylesheet specificity linting is disabled only for `noDescendingSpecificity`, b
 
 ## Evidence and provenance
 
-[Design](DESIGN.md) · [Visual profile](docs/visual/PROJECT_PROFILE.md) · [Verification](docs/VERIFICATION.md) · [Release](docs/RELEASE.md) · [Asset manifest](assets.manifest.json)
+[Two-concept delivery](docs/DELIVERY.md) · [Design](DESIGN.md) · [Visual profile](docs/visual/PROJECT_PROFILE.md) · [Verification](docs/VERIFICATION.md) · [Release](docs/RELEASE.md) · [Asset manifest](assets.manifest.json)
 
 Browser evidence covers six desktop/tablet/phone/landscape viewports, keyboard, modal focus, all five disciplines, brief validation/export, reduced motion, preference changes, the standalone hero and no-JavaScript reading. It is implementer self-review on local Chrome, not independent/client approval or physical-phone certification. Motion captures are sampled states.
 
