@@ -1,0 +1,194 @@
+{
+  "base": "https://16-common-ground.williamking.workers.dev",
+  "checkedAt": "2026-10-01T10:23:14.765Z",
+  "files": [
+    {
+      "path": "/404.html",
+      "status": 200,
+      "matched": true,
+      "bytes": 373
+    },
+    {
+      "path": "/assets/hero-6XucaUPU.js",
+      "status": 200,
+      "matched": true,
+      "bytes": 145
+    },
+    {
+      "path": "/assets/hero-BfG1P5Z7.css",
+      "status": 200,
+      "matched": true,
+      "bytes": 7136
+    },
+    {
+      "path": "/assets/main-FACVqkFp.js",
+      "status": 200,
+      "matched": true,
+      "bytes": 240059
+    },
+    {
+      "path": "/assets/main-QYhopcML.css",
+      "status": 200,
+      "matched": true,
+      "bytes": 22828
+    },
+    {
+      "path": "/assets/motion-DwmqHSwh.js",
+      "status": 200,
+      "matched": true,
+      "bytes": 115924
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200,
+      "matched": true,
+      "bytes": 224
+    },
+    {
+      "path": "/fonts/manrope-latin.woff2",
+      "status": 200,
+      "matched": true,
+      "bytes": 24836
+    },
+    {
+      "path": "/fonts/OFL-Manrope.txt",
+      "status": 200,
+      "matched": true,
+      "bytes": 4387
+    },
+    {
+      "path": "/hero.html",
+      "status": 200,
+      "matched": true,
+      "bytes": 6748
+    },
+    {
+      "path": "/images/forum.webp",
+      "status": 200,
+      "matched": true,
+      "bytes": 171888
+    },
+    {
+      "path": "/images/london.webp",
+      "status": 200,
+      "matched": true,
+      "bytes": 160680
+    },
+    {
+      "path": "/index.html",
+      "status": 200,
+      "matched": true,
+      "bytes": 17021
+    },
+    {
+      "path": "/release.json",
+      "status": 200,
+      "matched": true,
+      "bytes": 105
+    },
+    {
+      "path": "/social.jpg",
+      "status": 200,
+      "matched": true,
+      "bytes": 106369
+    }
+  ],
+  "errors": [],
+  "notFoundStatus": 404,
+  "release": {
+    "sourceCommit": "71a73fad0e6f60f81c3803c11f61caae0c171443",
+    "builtAt": "2026-10-01T10:22:01.941Z"
+  },
+  "desktop": {
+    "title": "Chamber Group — Common Ground concept",
+    "overflow": false,
+    "resources": [
+      {
+        "name": "/fonts/manrope-latin.woff2",
+        "encoded": 24836,
+        "transfer": 25136
+      },
+      {
+        "name": "/assets/main-FACVqkFp.js",
+        "encoded": 76772,
+        "transfer": 77072
+      },
+      {
+        "name": "/assets/motion-DwmqHSwh.js",
+        "encoded": 47290,
+        "transfer": 47590
+      },
+      {
+        "name": "/assets/main-QYhopcML.css",
+        "encoded": 6437,
+        "transfer": 6737
+      },
+      {
+        "name": "/images/london.webp",
+        "encoded": 160680,
+        "transfer": 160980
+      },
+      {
+        "name": "/favicon.svg",
+        "encoded": 178,
+        "transfer": 478
+      }
+    ],
+    "paint": [
+      {
+        "name": "first-paint",
+        "startTime": 504
+      },
+      {
+        "name": "first-contentful-paint",
+        "startTime": 504
+      }
+    ]
+  },
+  "phone": {
+    "title": "Chamber Group — Common Ground concept",
+    "overflow": false,
+    "resources": [
+      {
+        "name": "/fonts/manrope-latin.woff2",
+        "encoded": 24836,
+        "transfer": 25136
+      },
+      {
+        "name": "/assets/main-FACVqkFp.js",
+        "encoded": 76821,
+        "transfer": 77121
+      },
+      {
+        "name": "/assets/motion-DwmqHSwh.js",
+        "encoded": 47290,
+        "transfer": 47590
+      },
+      {
+        "name": "/assets/main-QYhopcML.css",
+        "encoded": 6437,
+        "transfer": 6737
+      },
+      {
+        "name": "/images/london.webp",
+        "encoded": 160680,
+        "transfer": 160980
+      },
+      {
+        "name": "/favicon.svg",
+        "encoded": 178,
+        "transfer": 478
+      }
+    ],
+    "paint": [
+      {
+        "name": "first-paint",
+        "startTime": 256
+      },
+      {
+        "name": "first-contentful-paint",
+        "startTime": 256
+      }
+    ]
+  }
+}
