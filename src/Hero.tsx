@@ -27,14 +27,14 @@ export function Mark() {
 export function Hero({ standalone = false }: { standalone?: boolean }) {
   const link = (id: string) => `${standalone ? "/" : ""}#${id}`;
   return (
-    <section className="cg-hero" id="top" aria-label="Introducing Chamber Group">
+    <section className="cg-hero" id="top" aria-label="Introducing Common Ground">
       <header className="cg-header">
-        <a className="cg-brand" href={link("top")} aria-label="Chamber Group home">
+        <a className="cg-brand" href={link("top")} aria-label="Common Ground home">
           <Mark />
           <span>
-            chamber
+            common
             <br />
-            group
+            ground
           </span>
         </a>
         <nav className="cg-desktop-nav" aria-label="Main navigation">
@@ -90,7 +90,7 @@ export function Hero({ standalone = false }: { standalone?: boolean }) {
         <div className="cg-art" aria-hidden="true">
           <span className="cg-cross cg-cross-top">+</span>
           <span className="cg-cross cg-cross-bottom">+</span>
-          <svg aria-hidden="true" className="cg-chamber" viewBox="0 0 680 680" fill="none">
+          <svg aria-hidden="true" className="cg-orbit" viewBox="0 0 680 680" fill="none">
             <defs>
               <clipPath id="cg-aperture">
                 <circle cx="340" cy="340" r="172" />

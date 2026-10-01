@@ -1,6 +1,6 @@
 # COMMON GROUND
 
-**Different perspectives. Shared progress.** An independent Chamber Group website concept: five disciplines assemble into one graphic chamber, then flow into a complete editorial homepage.
+**Different perspectives. Shared progress.** An independent corporate website concept: five disciplines assemble into one graphic circle, then flow into a complete editorial homepage.
 
 [Explore the website](https://16-common-ground.williamking.workers.dev) · [Standalone animated hero](https://16-common-ground.williamking.workers.dev/hero.html) · [Integration guide](HERO-INTEGRATION.md)
 
@@ -24,7 +24,7 @@ The opening takes about three seconds and settles. Scroll reveals carry the circ
 - Prepare a brief, then copy or download it. No personal data is requested and nothing is sent.
 - Open the standalone hero to see the integration-ready version without the homepage.
 
-This is speculative portfolio work by William King, not an official Chamber Group website or a commissioned client result. Brand files were not supplied; identity, artwork and copy are provisional. The photographs illustrate the sector and do not claim client work or endorsement.
+This is speculative portfolio work by William King, created around a fictional brand, not a commissioned client result. The identity, artwork and copy are original demonstration material. The photographs illustrate the sector and do not claim client work or endorsement.
 
 ## Build and verify
 

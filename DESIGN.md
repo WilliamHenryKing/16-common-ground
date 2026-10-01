@@ -1,8 +1,8 @@
 # COMMON GROUND
 
-Independent Chamber Group concept, 1 October 2026. Read the root CHAMBER-DEMO-PLAN.md. Brand assets were not supplied; this is an original provisional identity, not an official website.
+Independent corporate portfolio concept, 1 October 2026. Read the root MOTION-DEMO-PLAN.md. Common Ground is a fictional brand with an original identity, not commissioned client work.
 
-Warm paper #f1efe8, ink #242820, vermilion #b93626 and lilac #c7b8dd. Manrope supports large, tightly composed headings; an italic serif accent adds human warmth. A monumental five-part open chamber frames a monochrome London photograph. Fine registration marks and editorial rules add precision without dashboard decoration.
+Warm paper #f1efe8, ink #242820, vermilion #b93626 and lilac #c7b8dd. Manrope supports large, tightly composed headings; an italic serif accent adds human warmth. A monumental five-part open circle frames a monochrome London photograph. Fine registration marks and editorial rules add precision without dashboard decoration.
 
 Arrival storyboard: 0–0.7 s typography rises into masks; 0.2–1.8 s concentric open forms rotate and converge; 0.5–2.3 s the photograph aperture opens; 1.5–3.4 s five discipline labels and the bottom index resolve. The scene then holds, avoiding perpetual distraction. Scroll carries the circular form and typographic vocabulary into the body. No preloader or compulsory animation.
 

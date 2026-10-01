@@ -49,7 +49,7 @@ export const perspectives = [
     paragraphs: [
       "A useful conversation begins long before people sit down together. It starts by understanding what each participant needs, where interests overlap, and which questions have not yet been asked.",
       "Clear evidence creates common ground. Listening gives that evidence context. Together, they make it possible to move from competing positions to practical next steps.",
-      "This is an illustrative editorial note for the design concept, not a report of Chamber Group client work.",
+      "This is an illustrative editorial note for the design concept, not a report of client work.",
     ],
   },
   {
@@ -60,7 +60,7 @@ export const perspectives = [
     paragraphs: [
       "The value of an event is not confined to its programme. It lives in the introductions, the unexpected questions and the connections that continue afterwards.",
       "Start with a clear purpose. Make space for different voices. Give people a useful way to carry the conversation into their everyday work.",
-      "This is an illustrative editorial note. The photograph is licensed stock imagery and does not depict a Chamber Group event.",
+      "This is an illustrative editorial note. The photograph is licensed stock imagery and illustrates the concept rather than a commissioned event.",
     ],
   },
 ] as const;

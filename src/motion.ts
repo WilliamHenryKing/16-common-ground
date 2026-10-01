@@ -68,7 +68,7 @@ export function mountMotion(root: HTMLElement, fullPage = true) {
           );
         if (fullPage) {
           if (context.conditions?.desktop)
-            gsap.to(".cg-chamber", {
+            gsap.to(".cg-orbit", {
               rotation: 16,
               y: 60,
               ease: "none",

@@ -1,6 +1,6 @@
 # Integrating the Common Ground hero
 
-This independent concept demonstrates the supplied Chamber Group brief. Replace the provisional identity and copy with approved brand assets before use on a real corporate website. No client approval or affiliation is implied.
+This independent corporate website demo uses the fictional Common Ground brand. Replace its identity and copy with approved assets before integrating it into a real corporate website. No client approval or affiliation is implied.
 
 ## Fastest preview
 

@@ -1,6 +1,6 @@
 # Visual and engineering profile
 
-New site: baseline absent. Target is a premium corporate motion portfolio demo for the supplied Chamber Group brief, not a 3D game. Solo implementation and self-review. Use DESIGN.md and root CHAMBER-DEMO-PLAN.md.
+New site: baseline absent. Target is a premium corporate motion portfolio demo for the supplied Common Ground brief, not a 3D game. Solo implementation and self-review. Use DESIGN.md and root MOTION-DEMO-PLAN.md.
 
 Required: all five sectors; authored finite opening; typography/imagery/graphic combination; coherent homepage transition; desktop/mobile; reduced motion and user motion toggle; static prerender; separately integrable HTML/CSS/JS hero; real interactions. No backend or invented company achievements.
 

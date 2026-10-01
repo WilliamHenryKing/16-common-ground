@@ -200,19 +200,19 @@
         "transferSize": 300
       },
       {
-        "name": "http://127.0.0.1:4626/assets/hero-6XucaUPU.js",
+        "name": "http://127.0.0.1:4626/assets/hero-CTLA7btn.js",
         "encodedBodySize": 145,
         "transferSize": 445
       },
       {
-        "name": "http://127.0.0.1:4626/assets/hero-BfG1P5Z7.css",
-        "encodedBodySize": 2207,
-        "transferSize": 2507
-      },
-      {
-        "name": "http://127.0.0.1:4626/assets/motion-DwmqHSwh.js",
+        "name": "http://127.0.0.1:4626/assets/motion-6jIM5I3g.js",
         "encodedBodySize": 0,
         "transferSize": 300
+      },
+      {
+        "name": "http://127.0.0.1:4626/assets/hero-D4v2znXt.css",
+        "encodedBodySize": 2205,
+        "transferSize": 2505
       },
       {
         "name": "http://127.0.0.1:4626/images/london.webp",

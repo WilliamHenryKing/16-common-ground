@@ -1,4 +1,4 @@
-# Chamber Group concepts — delivery record
+# Corporate motion concepts — delivery record
 
 Completed 1 October 2026, solo and sequentially. Two independent speculative websites respond to the supplied animated-hero brief. Both have public source, working live homepages and separately usable HTML/CSS/JavaScript heroes. Identity and copy are provisional because official branding was not supplied. No affiliation, client commission, endorsement or client approval is claimed.
 

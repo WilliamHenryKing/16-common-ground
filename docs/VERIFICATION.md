@@ -1,5 +1,7 @@
 # Verification — Common Ground
 
+Naming refinement, 1 October 2026: Common Ground now owns the wordmarks, metadata, accessible names, brief exports and concept copy. All 47 browser checks were rerun successfully; README screenshots and the social preview were regenerated from the renamed build.
+
 1 October 2026. Solo implementation and visual self-review. Full automated results: [browser-report.json](browser-report.json). Desktop Chrome 154.0.8037.58; Playwright 1.63.0; axe-core 4.13.0. All named checks in the report pass, with no browser runtime errors and no detected WCAG A/AA violations in the recorded full-page, phone and modal states.
 
 Strict TypeScript, Biome recommended lint and production build pass. The browser journey covers 1920×1080, 1440×900, 768×1024, 390×844, 320×740 and 844×390; no horizontal overflow was detected. All five expertise selections, modal Escape/focus restoration, both editorial notes, empty/whitespace brief rejection, clipboard, text download, mobile navigation, keyboard selection, motion toggle, live OS preference changes, standalone hero and no-JavaScript reading were exercised.

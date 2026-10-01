@@ -77,7 +77,7 @@ export function App() {
               </h2>
               <p className="cg-about-copy" data-reveal>
                 At the intersection of public affairs, policy, communications, membership and
-                events, Chamber Group brings people and ideas into the same conversation. Different
+                events, Common Ground brings people and ideas into the same conversation. Different
                 expertise. A shared direction.
               </p>
             </div>
@@ -233,7 +233,7 @@ export function App() {
                     return;
                   }
                   setBrief(
-                    `CHAMBER GROUP — COMMON GROUND\nIndependent concept: project discussion brief\n\nArea: ${data.get("area")}\nAmbition: ${String(data.get("ambition")).trim()}\nTiming: ${data.get("timing")}\n\nPrepared locally. This brief has not been sent.`,
+                    `COMMON GROUND\nIndependent concept: project discussion brief\n\nArea: ${data.get("area")}\nAmbition: ${String(data.get("ambition")).trim()}\nTiming: ${data.get("timing")}\n\nPrepared locally. This brief has not been sent.`,
                   );
                   setCopyStatus("");
                 }}
@@ -290,9 +290,9 @@ export function App() {
           <a className="cg-brand" href="#top">
             <Mark />
             <span>
-              chamber
+              common
               <br />
-              group
+              ground
             </span>
           </a>
           <p>
@@ -311,7 +311,7 @@ export function App() {
           <p>
             Independent design concept by William King.
             <br />
-            Not commissioned by or affiliated with Chamber Group.
+            Fictional brand. Independent portfolio work.
           </p>
           <div>
             <a href="/hero.html">Standalone hero ↗</a>
@@ -333,7 +333,7 @@ export function App() {
       </footer>
       <dialog
         className="cg-dialog"
-        aria-label="Chamber Group concept details"
+        aria-label="Common Ground concept details"
         ref={dialog}
         onClick={(e) => {
           if (e.target === e.currentTarget) dialog.current?.close();
@@ -354,12 +354,12 @@ export function App() {
               <h2>
                 A new perspective
                 <br />
-                for Chamber Group.
+                for Common Ground.
               </h2>
               <p>
                 This independent portfolio demonstration responds to a public animated-hero brief.
-                The identity, copy and artwork are provisional; no client brand kit was supplied. It
-                is not an official Chamber Group website.
+                Common Ground is a fictional brand, with original identity, copy and artwork. This
+                is a portfolio demonstration, not a commissioned client website.
               </p>
               <p>
                 Original SVG artwork and development by William King. Manrope by the Manrope Project
