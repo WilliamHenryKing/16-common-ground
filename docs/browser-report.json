@@ -1,0 +1,232 @@
+{
+  "base": "http://127.0.0.1:4626",
+  "browser": "154.0.8037.58",
+  "checks": [
+    {
+      "name": "page title and headline",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1920x1080",
+      "passed": true
+    },
+    {
+      "name": "hero readable 1920x1080",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440x900",
+      "passed": true
+    },
+    {
+      "name": "hero readable 1440x900",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768x1024",
+      "passed": true
+    },
+    {
+      "name": "hero readable 768x1024",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390x844",
+      "passed": true
+    },
+    {
+      "name": "hero readable 390x844",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320x740",
+      "passed": true
+    },
+    {
+      "name": "hero readable 320x740",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 844x390",
+      "passed": true
+    },
+    {
+      "name": "hero readable 844x390",
+      "passed": true
+    },
+    {
+      "name": "motion stops and preserves readable content",
+      "passed": true
+    },
+    {
+      "name": "replay disabled while motion is off",
+      "passed": true
+    },
+    {
+      "name": "select Public affairs",
+      "passed": true
+    },
+    {
+      "name": "panel updates Public affairs",
+      "passed": true
+    },
+    {
+      "name": "select Policy",
+      "passed": true
+    },
+    {
+      "name": "panel updates Policy",
+      "passed": true
+    },
+    {
+      "name": "select Communications",
+      "passed": true
+    },
+    {
+      "name": "panel updates Communications",
+      "passed": true
+    },
+    {
+      "name": "select Membership",
+      "passed": true
+    },
+    {
+      "name": "panel updates Membership",
+      "passed": true
+    },
+    {
+      "name": "select Events",
+      "passed": true
+    },
+    {
+      "name": "panel updates Events",
+      "passed": true
+    },
+    {
+      "name": "editorial note opens",
+      "passed": true
+    },
+    {
+      "name": "dialogAccessibility: no WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "second note distinct",
+      "passed": true
+    },
+    {
+      "name": "empty brief blocked",
+      "passed": true
+    },
+    {
+      "name": "whitespace brief blocked",
+      "passed": true
+    },
+    {
+      "name": "brief contains chosen values",
+      "passed": true
+    },
+    {
+      "name": "clipboard contains brief",
+      "passed": true
+    },
+    {
+      "name": "download has meaningful filename",
+      "passed": true
+    },
+    {
+      "name": "pageAccessibility: no WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "phone menu opens",
+      "passed": true
+    },
+    {
+      "name": "phone menu anchor navigates",
+      "passed": true
+    },
+    {
+      "name": "phone menu closes after navigation",
+      "passed": true
+    },
+    {
+      "name": "keyboard selects discipline",
+      "passed": true
+    },
+    {
+      "name": "phoneAccessibility: no WCAG A/AA violations",
+      "passed": true
+    },
+    {
+      "name": "OS reduced motion is respected",
+      "passed": true
+    },
+    {
+      "name": "system preference prevents replay",
+      "passed": true
+    },
+    {
+      "name": "live preference change is respected",
+      "passed": true
+    },
+    {
+      "name": "standalone hero loads",
+      "passed": true
+    },
+    {
+      "name": "standalone has no homepage body",
+      "passed": true
+    },
+    {
+      "name": "prerendered no-JavaScript content",
+      "passed": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "measurements": {
+    "standaloneResources": [
+      {
+        "name": "http://127.0.0.1:4626/fonts/manrope-latin.woff2",
+        "encodedBodySize": 0,
+        "transferSize": 300
+      },
+      {
+        "name": "http://127.0.0.1:4626/assets/hero-6XucaUPU.js",
+        "encodedBodySize": 145,
+        "transferSize": 445
+      },
+      {
+        "name": "http://127.0.0.1:4626/assets/hero-BfG1P5Z7.css",
+        "encodedBodySize": 2207,
+        "transferSize": 2507
+      },
+      {
+        "name": "http://127.0.0.1:4626/assets/motion-DwmqHSwh.js",
+        "encodedBodySize": 0,
+        "transferSize": 300
+      },
+      {
+        "name": "http://127.0.0.1:4626/images/london.webp",
+        "encodedBodySize": 0,
+        "transferSize": 300
+      },
+      {
+        "name": "http://127.0.0.1:4626/favicon.svg",
+        "encodedBodySize": 224,
+        "transferSize": 300
+      }
+    ]
+  },
+  "dialogAccessibility": [],
+  "pageAccessibility": [],
+  "phoneAccessibility": []
+}
