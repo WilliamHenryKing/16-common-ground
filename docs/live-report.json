@@ -1,6 +1,6 @@
 {
   "base": "https://16-common-ground.williamking.workers.dev",
-  "checkedAt": "2026-10-01T10:23:14.765Z",
+  "checkedAt": "2026-10-01T11:56:31.252Z",
   "files": [
     {
       "path": "/404.html",
@@ -9,34 +9,34 @@
       "bytes": 373
     },
     {
-      "path": "/assets/hero-6XucaUPU.js",
+      "path": "/assets/hero-CTLA7btn.js",
       "status": 200,
       "matched": true,
       "bytes": 145
     },
     {
-      "path": "/assets/hero-BfG1P5Z7.css",
+      "path": "/assets/hero-D4v2znXt.css",
       "status": 200,
       "matched": true,
-      "bytes": 7136
+      "bytes": 7134
     },
     {
-      "path": "/assets/main-FACVqkFp.js",
+      "path": "/assets/main-Dc8DcbD_.css",
       "status": 200,
       "matched": true,
-      "bytes": 240059
+      "bytes": 22826
     },
     {
-      "path": "/assets/main-QYhopcML.css",
+      "path": "/assets/main-DkMIROWq.js",
       "status": 200,
       "matched": true,
-      "bytes": 22828
+      "bytes": 240056
     },
     {
-      "path": "/assets/motion-DwmqHSwh.js",
+      "path": "/assets/motion-6jIM5I3g.js",
       "status": 200,
       "matched": true,
-      "bytes": 115924
+      "bytes": 115922
     },
     {
       "path": "/favicon.svg",
@@ -60,7 +60,7 @@
       "path": "/hero.html",
       "status": 200,
       "matched": true,
-      "bytes": 6748
+      "bytes": 6732
     },
     {
       "path": "/images/forum.webp",
@@ -78,7 +78,7 @@
       "path": "/index.html",
       "status": 200,
       "matched": true,
-      "bytes": 17021
+      "bytes": 17017
     },
     {
       "path": "/release.json",
@@ -90,17 +90,17 @@
       "path": "/social.jpg",
       "status": 200,
       "matched": true,
-      "bytes": 106369
+      "bytes": 106349
     }
   ],
   "errors": [],
   "notFoundStatus": 404,
   "release": {
-    "sourceCommit": "71a73fad0e6f60f81c3803c11f61caae0c171443",
-    "builtAt": "2026-10-01T10:22:01.941Z"
+    "sourceCommit": "ffc92bf34ab654b06404cd9a540d7d9c3a718dc2",
+    "builtAt": "2026-10-01T11:55:45.727Z"
   },
   "desktop": {
-    "title": "Chamber Group — Common Ground concept",
+    "title": "Common Ground — Independent design concept",
     "overflow": false,
     "resources": [
       {
@@ -109,19 +109,19 @@
         "transfer": 25136
       },
       {
-        "name": "/assets/main-FACVqkFp.js",
-        "encoded": 76772,
-        "transfer": 77072
+        "name": "/assets/main-DkMIROWq.js",
+        "encoded": 76872,
+        "transfer": 77172
       },
       {
-        "name": "/assets/motion-DwmqHSwh.js",
-        "encoded": 47290,
-        "transfer": 47590
+        "name": "/assets/motion-6jIM5I3g.js",
+        "encoded": 47288,
+        "transfer": 47588
       },
       {
-        "name": "/assets/main-QYhopcML.css",
-        "encoded": 6437,
-        "transfer": 6737
+        "name": "/assets/main-Dc8DcbD_.css",
+        "encoded": 6435,
+        "transfer": 6735
       },
       {
         "name": "/images/london.webp",
@@ -137,16 +137,16 @@
     "paint": [
       {
         "name": "first-paint",
-        "startTime": 504
+        "startTime": 512
       },
       {
         "name": "first-contentful-paint",
-        "startTime": 504
+        "startTime": 512
       }
     ]
   },
   "phone": {
-    "title": "Chamber Group — Common Ground concept",
+    "title": "Common Ground — Independent design concept",
     "overflow": false,
     "resources": [
       {
@@ -155,19 +155,19 @@
         "transfer": 25136
       },
       {
-        "name": "/assets/main-FACVqkFp.js",
-        "encoded": 76821,
-        "transfer": 77121
+        "name": "/assets/main-DkMIROWq.js",
+        "encoded": 76738,
+        "transfer": 77038
       },
       {
-        "name": "/assets/motion-DwmqHSwh.js",
-        "encoded": 47290,
-        "transfer": 47590
+        "name": "/assets/motion-6jIM5I3g.js",
+        "encoded": 47342,
+        "transfer": 47642
       },
       {
-        "name": "/assets/main-QYhopcML.css",
-        "encoded": 6437,
-        "transfer": 6737
+        "name": "/assets/main-Dc8DcbD_.css",
+        "encoded": 6435,
+        "transfer": 6735
       },
       {
         "name": "/images/london.webp",
@@ -183,11 +183,11 @@
     "paint": [
       {
         "name": "first-paint",
-        "startTime": 256
+        "startTime": 232
       },
       {
         "name": "first-contentful-paint",
-        "startTime": 256
+        "startTime": 232
       }
     ]
   }

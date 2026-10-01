@@ -1,6 +1,6 @@
 # Corporate motion concepts — delivery record
 
-Completed 1 October 2026, solo and sequentially. Two independent speculative websites respond to the supplied animated-hero brief. Both have public source, working live homepages and separately usable HTML/CSS/JavaScript heroes. Identity and copy are provisional because official branding was not supplied. No affiliation, client commission, endorsement or client approval is claimed.
+Completed 1 October 2026, solo and sequentially. Two independent speculative websites respond to the supplied animated-hero brief. Both have public source, working live homepages and separately usable HTML/CSS/JavaScript heroes. Common Ground and Signal are fictional brands with original demonstration identities and copy. No affiliation, client commission, endorsement or client approval is claimed.
 
 ## Explore the two directions
 
@@ -27,8 +27,8 @@ Completed 1 October 2026, solo and sequentially. Two independent speculative web
 
 | Concept | Deployed application SHA | Cloudflare version |
 |---|---|---|
-| Common Ground | `71a73fad0e6f60f81c3803c11f61caae0c171443` | `b2ecce47-3c29-43ea-9e07-4012d1fdceae` |
-| Signal | `25f1911a080e3b25faeeba592d2053e34d1dbefd` | `9ced8745-638b-40b3-b87a-57acfd995410` |
+| Common Ground | `ffc92bf34ab654b06404cd9a540d7d9c3a718dc2` | `e8447904-9919-4453-b14a-8c60a32b66ce` |
+| Signal | `9bf0f7e675bbbe297cd48a001f9ef60b8c3bdb24` | `a5eefdc9-e3db-4454-b1cc-353c48bbd91a` |
 
 [Common Ground release receipt](https://github.com/WilliamHenryKing/16-common-ground/blob/main/docs/RELEASE.md) and [Signal release receipt](https://github.com/WilliamHenryKing/17-signal/blob/main/docs/RELEASE.md) include exact live evidence. Documentation-only commits after these revisions do not change the deployed application. Local type/lint/build and live checks passed; no remote CI workflow is configured.
 
